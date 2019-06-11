@@ -12,6 +12,15 @@ buildscript {
 
 apply plugin: 'com.android.application'
 
+apply plugin: 'checkstyle'
+
+tasks.withType(Checkstyle) {
+    ignoreFailures = true
+    reports {
+        html.enabled = true
+    }
+}
+
 repositories {
     jcenter()
     google()
