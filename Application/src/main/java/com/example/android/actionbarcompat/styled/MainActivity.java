@@ -38,7 +38,7 @@ import android.view.Menu;
 public class MainActivity extends AppCompatActivity implements ActionBar.TabListener {
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    protected void onCreatex(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.sample_main);
 
