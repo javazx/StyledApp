@@ -1,4 +1,19 @@
-#Tue Jun 11 16:37:35 CDT 2019
-base.0=C\:\\Users\\Javax\\AndroidStudioProjects\\StyledApp\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Wed Jun 12 10:30:49 CDT 2019
+path.1=classes.dex
 path.0=classes.dex
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
 renamed.0=classes.dex
+base.5=C\:\\Users\\Javax\\AndroidStudioProjects\\StyledApp\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\25
+base.4=C\:\\Users\\Javax\\AndroidStudioProjects\\StyledApp\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\28
+base.3=C\:\\Users\\Javax\\AndroidStudioProjects\\StyledApp\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\23
+base.2=C\:\\Users\\Javax\\AndroidStudioProjects\\StyledApp\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\26
+base.1=C\:\\Users\\Javax\\AndroidStudioProjects\\StyledApp\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\24
+base.0=C\:\\Users\\Javax\\AndroidStudioProjects\\StyledApp\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\27
+path.5=classes.dex
+path.4=classes.dex
+path.3=classes.dex
+path.2=classes.dex

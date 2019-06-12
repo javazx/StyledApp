@@ -69,6 +69,9 @@
 # Referenced at C:\Users\Javax\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\3a734ddf3671da29b0a2293536193367\res\layout\abc_screen_simple_overlay_action_mode.xml:32
 -keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
 
-# Referenced at C:\Users\Javax\AndroidStudioProjects\StyledApp\Application\build\intermediates\manifests\full\debug\AndroidManifest.xml:36
+# Referenced at C:\Users\Javax\AndroidStudioProjects\StyledApp\Application\build\intermediates\manifests\instant-run\debug\AndroidManifest.xml:56
+-keep class com.android.tools.ir.server.InstantRunContentProvider { <init>(...); }
+
+# Referenced at C:\Users\Javax\AndroidStudioProjects\StyledApp\Application\build\intermediates\manifests\instant-run\debug\AndroidManifest.xml:37
 -keep class com.example.android.actionbarcompat.styled.MainActivity { <init>(...); }
 
