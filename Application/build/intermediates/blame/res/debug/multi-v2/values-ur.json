@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\Javax\\AndroidStudioProjects\\StyledApp\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ur\\values-ur.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Javax\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\82b84a34316d2523c61ed2ae624dc7ad\\res\\values-ur\\values-ur.xml",
+                    "source": "C:\\Users\\Javax\\.gradle\\caches\\transforms-2\\files-2.1\\c9907f5fd888e3004aa5b87743a2b251\\res\\values-ur\\values-ur.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Javax\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\3a734ddf3671da29b0a2293536193367\\res\\values-ur\\values-ur.xml",
+                    "source": "C:\\Users\\Javax\\.gradle\\caches\\transforms-2\\files-2.1\\045ee712c7fe06f7e1e55d868e081048\\res\\values-ur\\values-ur.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
