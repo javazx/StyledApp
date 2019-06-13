@@ -1,0 +1,4 @@
+#Thu Jun 13 11:32:35 CDT 2019
+base.0=C\:\\Users\\Javax\\AndroidStudioProjects\\StyledApp\\Application\\build\\intermediates\\transforms\\r8\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

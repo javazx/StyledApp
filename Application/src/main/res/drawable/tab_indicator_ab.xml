@@ -44,7 +44,7 @@
     <!-- Pressed & focused states -->
     <item android:drawable="@drawable/tab_unselected_pressed_styled" android:state_focused="true"
         android:state_pressed="true" android:state_selected="false" />
-    <item android:drawable="@drawable/tab_selected_pressed_styled" android:state_focused="true"
+    <item android:drawable="@drawable/tab_selected_pressed_styledx" android:state_focused="true"
         android:state_pressed="true" android:state_selected="true" />
 
     <item></item>
